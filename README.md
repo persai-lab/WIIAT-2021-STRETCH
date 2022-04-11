@@ -10,7 +10,6 @@ If you have any questions, please email cwang25@albany.edu
 
 ## How to install and run
 
-For example, to run the DMKT model on MORF dataset:
 
 ```angular2html
 git clone https://github.com/persai-lab/WIIAT2021-STRETCH
